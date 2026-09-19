@@ -1,40 +1,49 @@
-# 👋 Hi there, I’m Rhonda Ojongmboh!
+# 👋 Hi, I'm Rhonda Ojongmboh
 
-### 💻 Computer Science Student @ University of Pittsburgh
+### Software Engineer @ SWIFT | C++ • Systems • RTL/FPGA
 
----
+I'm a Computer Science graduate from the **University of Pittsburgh** and currently an **Associate Software Engineer at SWIFT**.
 
-## 👀 What I'm Passionate About:
+I'm interested in **designing and building systems from the ground up**, particularly at the boundary between hardware and software. My focus is on understanding the full path from clocked RTL and FPGA datapaths to high-performance, latency-sensitive software.
 
-I'm a dedicated Computer Science student at the University of Pittsburgh with a keen interest in the intricacies of **Systems Programming** and **Performance Engineering**. My goal is to apply these skills in **Quantitative spaces**, building robust and highly optimized solutions. I thrive on understanding how software interacts with hardware at a fundamental level and optimizing code for maximum efficiency.
+## 🔧 Technical Focus
 
-## 🌱 My Current Focus & Skills:
+### Systems & Low-Level
 
-I'm constantly expanding my expertise in:
+* C++ / C
+* Multithreading & Concurrency
+* Networking
+* Memory Management
+* Performance Optimization
 
-* **Languages:** C++, Java, C, Python
-* **Systems Concepts:** Operating Systems, Memory Management, Concurrency, Networking, Low-Level Programming
-* **Performance Engineering:** Profiling, Optimization techniques, Benchmarking
-* **Tools:** Git, Linux environment, GDB, Valgrind
+### RTL & FPGA
 
-## 🚀 Featured Project: Dynamic Memory Allocator
+* SystemVerilog / VHDL
+* FPGA Design
+* AXI / AXI-Stream
+* Pipelining & FSM Design
+* Computer Architecture
+* Vivado / Vitis
 
-One of my significant projects involves building a dynamic memory allocator from scratch. This project demonstrates my ability to:
+### Other
 
-* Design and implement **explicit free lists** for efficient memory tracking.
-* Apply **block splitting** and **coalescing** strategies to manage fragmentation.
-* Ensure **memory safety and correctness** through rigorous testing.
-* Achieved **100% correctness** on all official benchmarks, with a performance index of **73/100**.
+* Python
+* RISC-V Assembly
+* CUDA / OpenMP / OpenMPI
+* Git / GDB / Linux
 
-➡️ [**Explore the Malloc Lab project here!**](https://github.com/rhondaoj4/Dynamic-Memory-Allocator)
+## 🎯 Engineering Focus
 
-## 📫 How to Reach Me:
+I'm particularly interested in building systems across the stack:
 
-* **Email:** rhondadev4@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/rhonda-ojongmboh/] 
+**RTL/FPGA ↔ PCIe ↔ Kernel Bypass ↔ Ultra-Low-Latency C++**
 
-## ⚡ Fun Fact:
+I want to work on problems where performance is shaped by decisions across both hardware and software: designing datapaths, moving data efficiently between devices and the CPU, minimizing software overhead, and engineering latency-critical C++ systems.
 
-I used to like dogs more than cats... Now it's the other way around! 🐯
+**My philosophy:** *Design, prototype, build, break, repeat.*
 
----
+## 📫 Connect
+
+**Email:** [rhondadev4@gmail.com](mailto:rhondadev4@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/rhonda-ojongmboh](https://www.linkedin.com/in/rhonda-ojongmboh/)
